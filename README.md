@@ -11,3 +11,9 @@ Use if needed `clear_thumb_icon_start_cache.bat` for clear cache.
 
 ## GALLERY
 
+![3](./img/fm.png)
+
+![1](./img/filetypes-all.png)
+
+![2](./img/filetypes-zstd.png)
+
