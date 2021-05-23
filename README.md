@@ -3,6 +3,7 @@
 Icon themes for [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) based on work:
 - https://www.deviantart.com/masamunecyrus/art/7-Zip-Filetype-Theme-Windows-10-550864748 <br/>
 - https://www.deviantart.com/alexgal23/art/Glyfz-2016-7-Zip-theme-627954450
+- https://github.com/Mr4Mike4/7-Zip-Filetype-Theme
 
 ## HOW TO
 
@@ -15,5 +16,4 @@ Use if needed `clear_thumb_icon_start_cache.bat` for clear cache.
 
 ![1](./img/filetypes-all.png)
 
-![2](./img/filetypes-zstd.png)
 
